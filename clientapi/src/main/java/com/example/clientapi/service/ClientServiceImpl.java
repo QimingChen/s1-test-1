@@ -41,4 +41,5 @@ public class ClientServiceImpl implements ClientService {
 
         return new ClientWithShipment(client, shipment);
     }
+
 }
